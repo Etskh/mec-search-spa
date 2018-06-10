@@ -1,6 +1,6 @@
 
 export default function ErrorBox(props) {
-  return <div className="error box">
+  return <div className="errorBox">
     <p>
       {props.children}
     </p>

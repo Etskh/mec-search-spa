@@ -4,6 +4,7 @@ const express = require('express');
 const hbs = require('express-hbs');
 
 // Local modules
+const api = require('./lib/api');
 const logger = require('./lib/logger');
 const pkg = require('../package');
 
@@ -46,8 +47,13 @@ app.get('/', (req, res) => {
 });
 
 app.get('/api', (req, res) => {
-  res.send({
-    success: true,
+  const searchString = req.query.search;
+
+  api.search(searchString).then( results => {
+    res.send({
+      searchString: searchString,
+      results,
+    });
   });
 });
 

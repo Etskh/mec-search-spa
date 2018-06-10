@@ -1,7 +1,8 @@
-import axios from 'axios';
-import SearchBox from './SearchBox';
-import ResultList from './ResultList';
 
+import SearchBox from './SearchBox';
+import ErrorBox from './ErrorBox';
+import ResultList from './ResultList';
+import { searchApi } from '../lib/Api';
 
 export default class SearchApp extends React.Component {
   constructor() {
@@ -10,6 +11,7 @@ export default class SearchApp extends React.Component {
     this.state = {
       error: null,
       isSearching: false,
+      results: [],
     }
 
     this.onSearch = this.onSearch.bind(this);
@@ -20,16 +22,14 @@ export default class SearchApp extends React.Component {
       isSearching: true,
     });
 
-    // TODO: pull this out
-    // Api.search('');
-    axios.get('/api')
-      .then((response) => {
-        console.log(response);
+    searchApi(searchString)
+      .then( results => {
         this.setState({
           isSearching: false,
+          results: results,
         });
       })
-      .catch((error) => {
+      .catch( error => {
         this.setState({
           error: 'Something went wrong',
           isSearching: false,
@@ -45,7 +45,8 @@ export default class SearchApp extends React.Component {
       <SearchBox
         isSearching={this.state.isSearching}
         onSearch={this.onSearch}/>
-      <ResultList/>
+      <ResultList
+        results={this.state.results}/>
     </div>;
   }
 }
