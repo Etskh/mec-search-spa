@@ -1,0 +1,14 @@
+{
+  "ext": "js json jsx less html",
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "verbose": true,
+  "watch": [
+    "server",
+    "client"
+  ],
+  "events": {
+    "restart": "gulp"
+  }
+}
