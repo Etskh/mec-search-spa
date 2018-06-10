@@ -45,6 +45,12 @@ app.get('/', (req, res) => {
   });
 });
 
+app.get('/api', (req, res) => {
+  res.send({
+    success: true,
+  });
+});
+
 // Listen on configured port
 app.listen(config.port, () => {
   logger.info([config.name, 'version', config.version, 'running on port', config.port].join(' '));

@@ -1,8 +1,70 @@
 
+@mec-green: #0ca948;
+
 body {
+    font-family: 'Oswald', sans-serif;
     font-size: 2em;
-    font-family: sans-serif;
+    font-weight: lighter;
     color: #FFF;
     background-color: #333;
     text-shadow: #000 0px 0px 2px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+h1, h2, h3, h4, h5 {
+    color: @mec-green;
+}
+
+a {
+    color: @mec-green;
+
+    &:hover {
+        color: lighten(@mec-green, 10%);
+    }
+    &:active {
+        color: darken(desaturate(@mec-green, 10%), 10%);
+    }
+    &:visited {
+        color: @mec-green;
+    }
+}
+
+input {
+    font-family: 'Oswald', sans-serif;
+    padding: 0.5em;
+    font-size: 1em;
+}
+
+#page {
+    min-height: 20em;
+    padding: 1em;
+}
+
+.button {
+    display: inline-block;
+    font-size: 1em;
+    padding: 0.5em;
+    color: @mec-green;
+    cursor: pointer;
+    background-color: rgba(50,50,50,0.3);
+
+    &:hover {
+        background-color: rgba(50,50,50,0.5);
+    }
+}
+
+a.disabled {
+    color: #CCC;
+    cursor: default;
+
+    &:hover {
+        color: #CCC;
+    }
+    &:active {
+        color: #CCC;
+    }
+    &:visited {
+        color: #CCC;
+    }
 }

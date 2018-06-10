@@ -1,17 +1,11 @@
 import { Switch, Route } from 'react-router-dom';
-
-
-const Main = () => {
-  return <div id="">
-    This is the page.
-  </div>
-}
+import SearchApp from './SearchApp';
 
 export class App extends React.Component {
   render() {
     return <div id="page">
       <Switch>
-        <Route exact path='/' component={Main}/>
+        <Route exact path='/' component={SearchApp}/>
       </Switch>
     </div>;
   }
