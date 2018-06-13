@@ -6,10 +6,20 @@ export default class ResultList extends React.Component {
   }
 
   renderResult(result) {
-    return <div className="result" style={{
-      backgroundImage: `url(${result.imageUri})`,
-    }}>
-      <span>{result.name}</span>
+    return <div className="result" key={result.name}>
+      <div className="resultName">{result.name}</div>
+      <div className="resultImage"
+      style={{
+        backgroundImage: `url(${result.imageUri})`,
+      }}></div>
+      <div className="colours">
+        {result.colours.map((colour) => {
+          return <div key={colour}
+            className="colourBox" style={{
+              background: colour,
+            }}></div>
+        })}
+      </div>
     </div>
   }
 

@@ -1,7 +1,7 @@
 {
-  "name": "portfolio",
+  "name": "mec-search-app",
   "main": "server/app.js",
-  "description": "Just a portfolio for James the coder",
+  "description": "MEC search app to show off amazing coding skillz",
   "author": "Etskh",
   "license": "MIT",
   "version": "0.0.1",
@@ -11,6 +11,7 @@
     "postinstall": "npm run build",
     "start": "node server/app.js",
     "lint": "eslint server client",
+    "test": "istanbul cover node_modules/jasmine/bin/jasmine.js",
     "webpack": "webpack"
   },
   "//": "don't need react, react-dom because we're doing CDN",
@@ -41,7 +42,10 @@
     "eslint-plugin-import": "^2.8.0",
     "eslint-plugin-jsx-a11y": "^6.0.2",
     "eslint-plugin-react": "^7.5.1",
-    "jasmine": "^2.8.0",
-    "nodemon": "^1.12.5"
+    "istanbul": "^0.4.5",
+    "jasmine": "^2.99.0",
+    "nock": "^9.3.2",
+    "nodemon": "^1.12.5",
+    "sinon": "^5.1.1"
   }
 }

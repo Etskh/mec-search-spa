@@ -1,5 +1,6 @@
 
 @mec-green: #0ca948;
+@fade-white: rgba(255,255,255,0.7);
 
 body {
     font-family: 'Oswald', sans-serif;
@@ -84,12 +85,35 @@ a.disabled {
 
 .result {
     float: left;
-    width: 6em;
-    height: 6em;
-    background-repeat: no-repeat;
-    color: #000;
-    text-shadow: #FFF 0px 0px 4px;
     margin: 0.5em;
-    display: inline-block;
-    background-size: contain;
+    width: 6em;
+    overflow: hidden;
+    background: #FFF;
+
+    .resultName {
+        padding: 0.3em;
+        width: 100%;
+        line-height: 0.9em;
+        min-height: 2em;
+        color: #000;
+    }
+
+    .resultImage {
+        height: 6em;
+        width: 100%;
+        background-repeat: no-repeat;
+        display: inline-block;
+        background-size: contain;
+    }
+
+    .colours {
+        text-align: right;
+
+        .colourBox {
+            margin: 0.1em;
+            width: 1em;
+            height: 1em;
+            display: inline-block;
+        }
+    }
 }
