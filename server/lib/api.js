@@ -11,7 +11,7 @@ function sanitize(input) {
 }
 
 
-function getProducts(searchString) {
+function getMecProducts(searchString) {
   // Create the search string
   const sanitizedSearch = sanitize(searchString);
   const searchUri = `https://www.mec.ca/api/v1/products/search?keywords=${sanitizedSearch}`;
@@ -60,8 +60,8 @@ function parseProduct(product) {
 
 
 
-function search( searchString ) {
-  return getProducts(searchString).then( products => {
+function getProducts( searchString ) {
+  return getMecProducts(searchString).then( products => {
     // For each product, get the image, and the dominant colours
     return Promise.all(products.map(parseProduct));
   });
@@ -69,7 +69,7 @@ function search( searchString ) {
 
 
 module.exports.sanitize = sanitize;
-module.exports.getProducts = getProducts;
+module.exports.getMecProducts = getMecProducts;
 module.exports.getDominantColours = getDominantColours;
 module.exports.parseProduct = parseProduct;
-module.exports.search = search;
+module.exports.getProducts = getProducts;

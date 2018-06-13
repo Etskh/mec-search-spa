@@ -1,0 +1,80 @@
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "This is a wrapper around the MEC API.",
+        "version": "1.0.0",
+        "title": "MEC Search",
+        "contact": {
+            "email": "james.loucks.codes@gmail.com"
+        }
+    },
+    "host": "localhost:3003",
+    "basePath": "/api/v1/",
+    "tags": [{
+        "name": "product",
+        "description": "Product from MEC's backend"
+    }],
+    "schemes": ["http"],
+    "paths": {
+        "/getProducts": {
+            "get": {
+                "tags": ["product"],
+                "summary": "Searches for products",
+                "description": "Get products by keyword",
+                "operationId": "getProducts",
+                "produces": ["application/json"],
+                "parameters": [{
+                    "name": "search",
+                    "in": "query",
+                    "description": "Products to filter by",
+                    "required": true,
+                    "type": "string"
+                }],
+                "responses": {
+                    "200": {
+                        "description": "successful operation",
+                        "schema": {
+                            "$ref": "#/definitions/ApiResponse"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "definitions": {
+        "ApiResponse": {
+            "properties": {
+                "searchString": {
+                    "type": "string",
+                    "description": "The string that was searched on"
+                },
+                "results": {
+                    "type": "array",
+                    "description": "Results of returned products",
+                    "items": {
+                        "$ref": "#/definitions/Product"
+                    }
+                }
+            }
+        },
+        "Product": {
+            "type": "object",
+            "properties": {
+                "name": {
+                    "type": "string",
+                    "description": "Name of product"
+                },
+                "imageUri": {
+                    "type": "string",
+                    "description": "Path to image"
+                },
+                "colours": {
+                    "type": "array",
+                    "items": {
+                        "type": "string"
+                    }
+                }
+            }
+        }
+    }
+}

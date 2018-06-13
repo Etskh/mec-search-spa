@@ -3,9 +3,9 @@ const path = require('path');
 const express = require('express');
 const hbs = require('express-hbs');
 
-// Local modules
-const api = require('./lib/api');
+// Local libs
 const logger = require('./lib/logger');
+const apiRoute = require('./routes/apiRoute');
 const pkg = require('../package');
 
 // Create the app
@@ -49,16 +49,7 @@ app.get('/mec/', (req, res) => {
   });
 });
 
-app.get('/api', (req, res) => {
-  const searchString = req.query.search;
-
-  api.search(searchString).then( results => {
-    res.send({
-      searchString: searchString,
-      results,
-    });
-  });
-});
+app.use('/api/v1/', apiRoute);
 
 // Listen on configured port
 app.listen(config.port, () => {

@@ -13,14 +13,14 @@ export function searchApi(searchString) {
   return new Promise((resolve, reject) => {
     const search = sanitize(searchString);
 
-    axios.get(`/api?search=${search}`)
+    axios.get(`/api/v1/getProducts?search=${search}`)
       .then((response) => {
         console.log(response);
         if( response.status === 200 ) {
           return resolve(response.data.results)
         }
 
-        return reject('Didnt work');
+        return reject('Something went terribly wrong');
       })
       .catch((error) => {
         return reject(error);

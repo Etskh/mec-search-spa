@@ -12,25 +12,25 @@ describe( "API testing", () => {
     expect( api.sanitize( '123' )).toBe( '123' );
   });
 
-  it( ":getProducts gets top 5 products", () => {
+  it( ":getMecProducts gets top 5 products", () => {
     //https://www.mec.ca/api/v1/products/search?keywords=bike
     const mecBikes = nock('https://www.mec.ca')
       .get('/api/v1/products/search?keywords=bike')
       .reply(200, bikeFixtures);
 
-    return api.getProducts('bike').then( results => {
+    return api.getMecProducts('bike').then( results => {
       expect(results).toEqual(bikeFixtures.products.slice(0, 5));
     });
   });
 
-  it( ":getProducts will return an empty array if there are no results", () => {
+  it( ":getMecProducts will return an empty array if there are no results", () => {
     const mecBikes = nock('https://www.mec.ca')
       .get('/api/v1/products/search?keywords=nothing')
       .reply(200, {
         products: [],
       });
 
-    return api.getProducts('nothing').then( results => {
+    return api.getMecProducts('nothing').then( results => {
       expect(results).toEqual([]);
     });
   });
