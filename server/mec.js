@@ -40,6 +40,9 @@ app.use((req, res, next) => {
 
 // Main route
 app.get('/', (req, res) => {
+  res.redirect('/mec/');
+});
+app.get('/mec/', (req, res) => {
   res.render('index', {
     title: 'MEC Search Images',
     description: 'Searching images on MEC\'s site',
