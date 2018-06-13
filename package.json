@@ -9,7 +9,7 @@
     "build": "gulp",
     "dev": "nodemon",
     "postinstall": "npm run build",
-    "start": "node server/app.js",
+    "start": "node server/mec.js",
     "lint": "eslint server client",
     "test": "istanbul cover node_modules/jasmine/bin/jasmine.js",
     "webpack": "webpack"
