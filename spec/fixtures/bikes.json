@@ -1,0 +1,4040 @@
+{
+    "products": [{
+        "list_price": {
+            "amount": 1550.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8968416788510/5059557-GRT01-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417181726/5059557-GRT01-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417181726/5059557-GRT01-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417181726/5059557-GRT01-fallback.jpg"
+        },
+        "product_code": "5059-557",
+        "full_name": "MEC Cote Bicycle - Unisex",
+        "name": "Cote Bicycle",
+        "brand": "MEC",
+        "review_count": 10,
+        "review_rating": 4.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRT01",
+        "web_url": "https://www.mec.ca/product/5059-557/Cote-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5059-557"
+    }, {
+        "list_price": {
+            "amount": 4490.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8891895676958/5054892-BL022-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891895906334/5054892-BL022-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891895906334/5054892-BL022-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891895906334/5054892-BL022-fallback.jpg"
+        },
+        "product_code": "5054-892",
+        "full_name": "Intense 2018 Primer Foundation Bike - Unisex",
+        "name": "2018 Primer Foundation Bike",
+        "brand": "Intense",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BL022",
+        "web_url": "https://www.mec.ca/product/5054-892/2018-Primer-Foundation-Bike",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-892"
+    }, {
+        "list_price": {
+            "amount": 1390.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8928250003486/5056180-GRO00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8928250298398/5056180-GRO00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8928250298398/5056180-GRO00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8928250298398/5056180-GRO00-fallback.jpg"
+        },
+        "product_code": "5056-180",
+        "full_name": "Ridley X-Trail A60 - Unisex",
+        "name": "X-Trail A60",
+        "brand": "Ridley",
+        "review_count": 3,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRO00",
+        "web_url": "https://www.mec.ca/product/5056-180/X-Trail-A60",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5056-180"
+    }, {
+        "list_price": {
+            "amount": 625.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8956407349278/5057242-BK052-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956407709726/5057242-BK052-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956407709726/5057242-BK052-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956407709726/5057242-BK052-fallback.jpg"
+        },
+        "product_code": "5057-242",
+        "full_name": "MEC Chinook Bicycle - Unisex",
+        "name": "Chinook Bicycle",
+        "brand": "MEC",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK052",
+        "web_url": "https://www.mec.ca/product/5057-242/Chinook-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5057-242"
+    }, {
+        "list_price": {
+            "amount": 800.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8872386986014/5051244-BK052-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872387477534/5051244-BK052-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872387477534/5051244-BK052-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872387477534/5051244-BK052-fallback.jpg"
+        },
+        "product_code": "5051-244",
+        "full_name": "MEC Midtown Bicycle - Unisex",
+        "name": "Midtown Bicycle",
+        "brand": "MEC",
+        "review_count": 2,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK052",
+        "web_url": "https://www.mec.ca/product/5051-244/Midtown-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5051-244"
+    }, {
+        "list_price": {
+            "amount": 1350.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8796373450782/5044850-BK006-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796374106142/5044850-BK006-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796374106142/5044850-BK006-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796374106142/5044850-BK006-fallback.jpg"
+        },
+        "product_code": "5044-850",
+        "full_name": "MEC Shadowlands Bicycle - Unisex",
+        "name": "Shadowlands Bicycle",
+        "brand": "MEC",
+        "review_count": 5,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK006",
+        "web_url": "https://www.mec.ca/product/5044-850/Shadowlands-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5044-850"
+    }, {
+        "list_price": {
+            "amount": 525.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8796582674462/5041357-BK000-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796583297054/5041357-BK000-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796583297054/5041357-BK000-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796583297054/5041357-BK000-fallback.jpg"
+        },
+        "product_code": "5041-357",
+        "full_name": "MEC Origami LTD Folding Bicycle - Unisex",
+        "name": "Origami LTD Folding Bicycle",
+        "brand": "MEC",
+        "review_count": 9,
+        "review_rating": 4.55560017,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK000",
+        "web_url": "https://www.mec.ca/product/5041-357/Origami-LTD-Folding-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-40-999-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5041-357"
+    }, {
+        "list_price": {
+            "amount": 550.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8916679819294/5055112-NRN00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8916680081438/5055112-NRN00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8916680081438/5055112-NRN00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8916680081438/5055112-NRN00-fallback.jpg"
+        },
+        "product_code": "5055-112",
+        "full_name": "Ghost Kato 24\" Bicycle - Youths",
+        "name": "Kato 24\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "NRN00",
+        "web_url": "https://www.mec.ca/product/5055-112/Kato-24%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5055-112"
+    }, {
+        "list_price": {
+            "amount": 450.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8890298433566/5053234-BK110-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8890298564638/5053234-BK110-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8890298564638/5053234-BK110-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8890298564638/5053234-BK110-fallback.jpg"
+        },
+        "product_code": "5053-234",
+        "full_name": "MEC Ace Ltd. Bicycle - Children to Youths",
+        "name": "Ace Ltd. Bicycle",
+        "brand": "MEC",
+        "review_count": 6,
+        "review_rating": 4.83330011,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK110",
+        "web_url": "https://www.mec.ca/product/5053-234/Ace-Ltd-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5053-234"
+    }, {
+        "list_price": {
+            "amount": 2100.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8968416690206/5059558-BK052-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417050654/5059558-BK052-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417050654/5059558-BK052-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417050654/5059558-BK052-fallback.jpg"
+        },
+        "product_code": "5059-558",
+        "full_name": "MEC Provincial Road 222 Bicycle - Unisex",
+        "name": "Provincial Road 222 Bicycle",
+        "brand": "MEC",
+        "review_count": 14,
+        "review_rating": 4.42859983,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK052",
+        "web_url": "https://www.mec.ca/product/5059-558/Provincial-Road-222-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5059-558"
+    }, {
+        "list_price": {
+            "amount": 3600.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8960088735774/5054865-BK000-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8960088997918/5054865-BK000-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8960088997918/5054865-BK000-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8960088997918/5054865-BK000-fallback.jpg"
+        },
+        "product_code": "5054-865",
+        "full_name": "Intense 2018 Spider Al. Foundation Bike - Unisex",
+        "name": "2018 Spider Al. Foundation Bike",
+        "brand": "Intense",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK000",
+        "web_url": "https://www.mec.ca/product/5054-865/2018-Spider-Al-Foundation-Bike",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-865"
+    }, {
+        "list_price": {
+            "amount": 3200.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 2200.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8871234600990/5051208-BK226-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871234666526/5051208-BK226-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871234666526/5051208-BK226-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871234666526/5051208-BK226-fallback.jpg"
+        },
+        "product_code": "5051-208",
+        "full_name": "Ghost Kato FS 5 Bicycle - Unisex",
+        "name": "Kato FS 5 Bicycle",
+        "brand": "Ghost",
+        "review_count": 1,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK226",
+        "web_url": "https://www.mec.ca/product/5051-208/Kato-FS-5-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5051-208"
+    }, {
+        "list_price": {
+            "amount": 695.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8872354447390/5048427-GRY07-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872354709534/5048427-GRY07-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872354709534/5048427-GRY07-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872354709534/5048427-GRY07-fallback.jpg"
+        },
+        "product_code": "5048-427",
+        "full_name": "MEC Mixed Tape Bicycle - Unisex",
+        "name": "Mixed Tape Bicycle",
+        "brand": "MEC",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRY07",
+        "web_url": "https://www.mec.ca/product/5048-427/Mixed-Tape-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-20-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5048-427"
+    }, {
+        "list_price": {
+            "amount": 800.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8871786741790/5051245-BK293-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871786872862/5051245-BK293-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871786872862/5051245-BK293-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871786872862/5051245-BK293-fallback.jpg"
+        },
+        "product_code": "5051-245",
+        "full_name": "MEC Midtown Bicycle - Women's",
+        "name": "Midtown Bicycle",
+        "brand": "MEC",
+        "review_count": 2,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK293",
+        "web_url": "https://www.mec.ca/product/5051-245/Midtown-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5051-245"
+    }, {
+        "list_price": {
+            "amount": 825.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8958679187486/5053259-GRY72-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8958679253022/5053259-GRY72-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8958679253022/5053259-GRY72-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8958679253022/5053259-GRY72-fallback.jpg"
+        },
+        "product_code": "5053-259",
+        "full_name": "MEC Origami Bicycle - Unisex",
+        "name": "Origami Bicycle",
+        "brand": "MEC",
+        "review_count": 4,
+        "review_rating": 3.75,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRY72",
+        "web_url": "https://www.mec.ca/product/5053-259/Origami-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-40-999-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5053-259"
+    }, {
+        "list_price": {
+            "amount": 3450.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8943760736286/5056344-SIL01-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8943760932894/5056344-SIL01-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8943760932894/5056344-SIL01-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8943760932894/5056344-SIL01-fallback.jpg"
+        },
+        "product_code": "5056-344",
+        "full_name": "Ghost Square Trekking B1.8 28 E-bike - Women's",
+        "name": "Square Trekking B1.8 28 E-bike",
+        "brand": "Ghost",
+        "review_count": 1,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "SIL01",
+        "web_url": "https://www.mec.ca/product/5056-344/Square-Trekking-B1-8-28-E-bike",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-15-15-15",
+            "category": "cycling/bikes/pedal assist electric bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5056-344"
+    }, {
+        "list_price": {
+            "amount": 550.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8942419116062/5055853-BK000-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8942419181598/5055853-BK000-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8942419181598/5055853-BK000-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8942419181598/5055853-BK000-fallback.jpg"
+        },
+        "product_code": "5055-853",
+        "full_name": "MEC Skyway Bicycle - Unisex",
+        "name": "Skyway Bicycle",
+        "brand": "MEC",
+        "review_count": 11,
+        "review_rating": 4.5454998,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK000",
+        "web_url": "https://www.mec.ca/product/5055-853/Skyway-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-30-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5055-853"
+    }, {
+        "list_price": {
+            "amount": 180.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8914568544286/5054512-BK110-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8914568675358/5054512-BK110-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8914568675358/5054512-BK110-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8914568675358/5054512-BK110-fallback.jpg"
+        },
+        "product_code": "5054-512",
+        "full_name": "MEC Speed Bicycle - Youths",
+        "name": "Speed Bicycle",
+        "brand": "MEC",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK110",
+        "web_url": "https://www.mec.ca/product/5054-512/Speed-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-512"
+    }, {
+        "list_price": {
+            "amount": 375.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8889385648158/5053236-PPL37-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385779230/5053236-PPL37-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385779230/5053236-PPL37-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385779230/5053236-PPL37-fallback.jpg"
+        },
+        "product_code": "5053-236",
+        "full_name": "MEC Dash Bicycle - Children to Youths",
+        "name": "Dash Bicycle",
+        "brand": "MEC",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "PPL37",
+        "web_url": "https://www.mec.ca/product/5053-236/Dash-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/kids bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5053-236"
+    }, {
+        "list_price": {
+            "amount": 2275.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 1975.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8921350602782/5054335-YLW00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8921351356446/5054335-YLW00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8921351356446/5054335-YLW00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8921351356446/5054335-YLW00-fallback.jpg"
+        },
+        "product_code": "5054-335",
+        "full_name": "Ridley X-Trail A55 Bicycle - Unisex",
+        "name": "X-Trail A55 Bicycle",
+        "brand": "Ridley",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "YLW00",
+        "web_url": "https://www.mec.ca/product/5054-335/X-Trail-A55-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-335"
+    }, {
+        "list_price": {
+            "amount": 1600.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8967955349534/5058401-GRN00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8967955415070/5058401-GRN00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8967955415070/5058401-GRN00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8967955415070/5058401-GRN00-fallback.jpg"
+        },
+        "product_code": "5058-401",
+        "full_name": "MEC National Bicycle - Unisex",
+        "name": "National Bicycle",
+        "brand": "MEC",
+        "review_count": 4,
+        "review_rating": 4.75,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRN00",
+        "web_url": "https://www.mec.ca/product/5058-401/National-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/touring bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5058-401"
+    }, {
+        "list_price": {
+            "amount": 3350.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8946839224350/5056361-RED13-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8946839289886/5056361-RED13-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8946839289886/5056361-RED13-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8946839289886/5056361-RED13-fallback.jpg"
+        },
+        "product_code": "5056-361",
+        "full_name": "Ghost SLAMR 3.7 LC Bicycle - Unisex",
+        "name": "SLAMR 3.7 LC Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "RED13",
+        "web_url": "https://www.mec.ca/product/5056-361/SLAMR-3-7-LC-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5056-361"
+    }, {
+        "list_price": {
+            "amount": 825.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8917611446302/5055481-NGT21-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611708446/5055481-NGT21-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611708446/5055481-NGT21-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611708446/5055481-NGT21-fallback.jpg"
+        },
+        "product_code": "5055-481",
+        "full_name": "Ghost Kato 2 27.5\" Bicycle - Unisex",
+        "name": "Kato 2 27.5\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 1,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "NGT21",
+        "web_url": "https://www.mec.ca/product/5055-481/Kato-2-27-5%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-32-10-10",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5055-481"
+    }, {
+        "list_price": {
+            "amount": 3400.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 2400.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8871551565854/5050255-WBR00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871551991838/5050255-WBR00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871551991838/5050255-WBR00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871551991838/5050255-WBR00-fallback.jpg"
+        },
+        "product_code": "5050-255",
+        "full_name": "Ridley Fenix C50 Disc Road Bicycle - Unisex",
+        "name": "Fenix C50 Disc Road Bicycle",
+        "brand": "Ridley",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "WBR00",
+        "web_url": "https://www.mec.ca/product/5050-255/Fenix-C50-Disc-Road-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-20-20-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5050-255"
+    }, {
+        "list_price": {
+            "amount": 395.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8889385582622/5053235-BK110-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385713694/5053235-BK110-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385713694/5053235-BK110-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8889385713694/5053235-BK110-fallback.jpg"
+        },
+        "product_code": "5053-235",
+        "full_name": "MEC Ace Bicycle - Children to Youths",
+        "name": "Ace Bicycle",
+        "brand": "MEC",
+        "review_count": 2,
+        "review_rating": 4.5,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK110",
+        "web_url": "https://www.mec.ca/product/5053-235/Ace-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/kids bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5053-235"
+    }, {
+        "list_price": {
+            "amount": 3475.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 2400.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8884472872990/5051216-BL158-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8884473626654/5051216-BL158-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8884473626654/5051216-BL158-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8884473626654/5051216-BL158-fallback.jpg"
+        },
+        "product_code": "5051-216",
+        "full_name": "Ghost Dreamr 4 Bicycle - Women's",
+        "name": "Dreamr 4 Bicycle",
+        "brand": "Ghost",
+        "review_count": 2,
+        "review_rating": 5.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BL158",
+        "web_url": "https://www.mec.ca/product/5051-216/Dreamr-4-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5051-216"
+    }, {
+        "list_price": {
+            "amount": 1125.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8919480500254/5055003-BK627-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480696862/5055003-BK627-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480696862/5055003-BK627-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480696862/5055003-BK627-fallback.jpg"
+        },
+        "product_code": "5055-003",
+        "full_name": "Ghost Kato 4 29\" Bicycle - Unisex",
+        "name": "Kato 4 29\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK627",
+        "web_url": "https://www.mec.ca/product/5055-003/Kato-4-29%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-32-10-10",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5055-003"
+    }, {
+        "list_price": {
+            "amount": 5590.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8891884994590/5054925-GRN00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891885420574/5054925-GRN00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891885420574/5054925-GRN00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891885420574/5054925-GRN00-fallback.jpg"
+        },
+        "product_code": "5054-925",
+        "full_name": "Intense 2018 Tracer Expert Bike - Unisex",
+        "name": "2018 Tracer Expert Bike",
+        "brand": "Intense",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRN00",
+        "web_url": "https://www.mec.ca/product/5054-925/2018-Tracer-Expert-Bike",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-925"
+    }, {
+        "list_price": {
+            "amount": 625.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8956409249822/5057243-BK007-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956409446430/5057243-BK007-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956409446430/5057243-BK007-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956409446430/5057243-BK007-fallback.jpg"
+        },
+        "product_code": "5057-243",
+        "full_name": "MEC Chinook Bicycle - Women's",
+        "name": "Chinook Bicycle",
+        "brand": "MEC",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK007",
+        "web_url": "https://www.mec.ca/product/5057-243/Chinook-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5057-243"
+    }, {
+        "list_price": {
+            "amount": 129.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8796610134046/5028323-NOC02-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610691102/5028323-NOC02-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610691102/5028323-NOC02-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610691102/5028323-NOC02-fallback.jpg"
+        },
+        "product_code": "5028-323",
+        "full_name": "Runners Aluminum Push Bicycle - Children",
+        "name": "Aluminum Push Bicycle",
+        "brand": "Runners",
+        "review_count": 29,
+        "review_rating": 4.37930012,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "NOC02",
+        "web_url": "https://www.mec.ca/product/5028-323/Aluminum-Push-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-50-999-999",
+            "category": "cycling/bikes/push bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5028-323"
+    }, {
+        "list_price": {
+            "amount": 3850.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 3000.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8923225227294/5054331-BL575-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8923225358366/5054331-BL575-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8923225358366/5054331-BL575-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8923225358366/5054331-BL575-fallback.jpg"
+        },
+        "product_code": "5054-331",
+        "full_name": "Ridley X-Trail C45 Bicycle - Unisex",
+        "name": "X-Trail C45 Bicycle",
+        "brand": "Ridley",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BL575",
+        "web_url": "https://www.mec.ca/product/5054-331/X-Trail-C45-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-20-10-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-331"
+    }, {
+        "list_price": {
+            "amount": 5000.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 3250.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8860008284190/5050258-BK243-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8860008513566/5050258-BK243-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8860008513566/5050258-BK243-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8860008513566/5050258-BK243-fallback.jpg"
+        },
+        "product_code": "5050-258",
+        "full_name": "Ridley Noah SL40 Road Bicycle - Unisex",
+        "name": "Noah SL40 Road Bicycle",
+        "brand": "Ridley",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BK243",
+        "web_url": "https://www.mec.ca/product/5050-258/Noah-SL40-Road-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-20-20-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5050-258"
+    }, {
+        "list_price": {
+            "amount": 140.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8796610592798/5021258-NOC02-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796611182622/5021258-NOC02-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796611182622/5021258-NOC02-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796611182622/5021258-NOC02-fallback.jpg"
+        },
+        "product_code": "5021-258",
+        "full_name": "Runners Wooden Push Bicycle - Children",
+        "name": "Wooden Push Bicycle",
+        "brand": "Runners",
+        "review_count": 64,
+        "review_rating": 4.28119993,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "NOC02",
+        "web_url": "https://www.mec.ca/product/5021-258/Wooden-Push-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-50-999-999",
+            "category": "cycling/bikes/push bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5021-258"
+    }, {
+        "list_price": {
+            "amount": 6790.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8891885879326/5054915-GRY07-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891886239774/5054915-GRY07-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891886239774/5054915-GRY07-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891886239774/5054915-GRY07-fallback.jpg"
+        },
+        "product_code": "5054-915",
+        "full_name": "Intense 2018 Carbine Pro Bike - Unisex",
+        "name": "2018 Carbine Pro Bike",
+        "brand": "Intense",
+        "review_count": 1,
+        "review_rating": 1.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "GRY07",
+        "web_url": "https://www.mec.ca/product/5054-915/2018-Carbine-Pro-Bike",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-30-20-20",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-915"
+    }, {
+        "list_price": {
+            "amount": 89.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8796610265118/5036537-RD070-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610854942/5036537-RD070-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610854942/5036537-RD070-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8796610854942/5036537-RD070-fallback.jpg"
+        },
+        "product_code": "5036-537",
+        "full_name": "Runners Junior Push Bicycle - Children",
+        "name": "Junior Push Bicycle",
+        "brand": "Runners",
+        "review_count": 19,
+        "review_rating": 4.57889986,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "RD070",
+        "web_url": "https://www.mec.ca/product/5036-537/Junior-Push-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-50-999-999",
+            "category": "cycling/bikes/push bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5036-537"
+    }, {
+        "list_price": {
+            "amount": 1600.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8919479648286/5055014-NRN00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480270878/5055014-NRN00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480270878/5055014-NRN00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8919480270878/5055014-NRN00-fallback.jpg"
+        },
+        "product_code": "5055-014",
+        "full_name": "Ghost Kato 7 29\" Bicycle - Unisex",
+        "name": "Kato 7 29\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "NRN00",
+        "web_url": "https://www.mec.ca/product/5055-014/Kato-7-29%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-32-10-10",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5055-014"
+    }, {
+        "list_price": {
+            "amount": 850.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8917611773982/5054995-SWE00-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611937822/5054995-SWE00-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611937822/5054995-SWE00-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8917611937822/5054995-SWE00-fallback.jpg"
+        },
+        "product_code": "5054-995",
+        "full_name": "Ghost Lanao 2 27.5\" Bicycle - Women's",
+        "name": "Lanao 2 27.5\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "SWE00",
+        "web_url": "https://www.mec.ca/product/5054-995/Lanao-2-27-5%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-32-10-10",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5054-995"
+    }, {
+        "list_price": {
+            "amount": 400.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8886204268574/5051222-BL175-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8886204334110/5051222-BL175-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8886204334110/5051222-BL175-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8886204334110/5051222-BL175-fallback.jpg"
+        },
+        "product_code": "5051-222",
+        "full_name": "Ghost Kato 2 20\" Bicycle - Youths",
+        "name": "Kato 2 20\" Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BL175",
+        "web_url": "https://www.mec.ca/product/5051-222/Kato-2-20%22-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-60-60-60",
+            "category": "cycling/bikes/mountain bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5051-222"
+    }, {
+        "list_price": {
+            "amount": 775.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": false,
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8934076940318/5056334-BL042-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8934077104158/5056334-BL042-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8934077104158/5056334-BL042-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8934077104158/5056334-BL042-fallback.jpg"
+        },
+        "product_code": "5056-334",
+        "full_name": "Ghost Panamao X2 28 Bicycle - Unisex",
+        "name": "Panamao X2 28 Bicycle",
+        "brand": "Ghost",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "BL042",
+        "web_url": "https://www.mec.ca/product/5056-334/Panamao-X2-28-Bicycle",
+        "clearance": false,
+        "tracking": {
+            "erp_category": "982-10-10-999",
+            "category": "cycling/bikes/urban commuter bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5056-334"
+    }, {
+        "list_price": {
+            "amount": 6500.0,
+            "currency": "CAD"
+        },
+        "all_skus_clearance": true,
+        "clearance_price": {
+            "amount": 4700.00,
+            "currency": "CAD"
+        },
+        "default_image_urls": {
+            "small_image_url": "https://cdn.mec.ca/medias/sys_master/placeholder/placeholder/8871399325726/5050257-WHT67-placeholder.jpg",
+            "large_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871399391262/5050257-WHT67-fallback.jpg",
+            "main_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871399391262/5050257-WHT67-fallback.jpg",
+            "zoom_image_url": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8871399391262/5050257-WHT67-fallback.jpg"
+        },
+        "product_code": "5050-257",
+        "full_name": "Ridley Noah SL40 Disc Road Bicycle - Unisex",
+        "name": "Noah SL40 Disc Road Bicycle",
+        "brand": "Ridley",
+        "review_count": 0,
+        "review_rating": 0.0,
+        "can_add_to_cart": true,
+        "can_add_to_wish_list": true,
+        "new_to_mec": false,
+        "default_colour_code": "WHT67",
+        "web_url": "https://www.mec.ca/product/5050-257/Noah-SL40-Disc-Road-Bicycle",
+        "clearance": true,
+        "tracking": {
+            "erp_category": "982-20-20-999",
+            "category": "cycling/bikes/road bikes/(not set)/"
+        },
+        "product_details_url": "https://www.mec.ca/api/v1/products/5050-257"
+    }],
+    "dimensions": [{
+        "refinements": [{
+            "id": "category%3A1551",
+            "name": "Cycling",
+            "product_count": 2378
+        }, {
+            "id": "category%3A1549",
+            "name": "Camping and hiking",
+            "product_count": 262
+        }, {
+            "id": "category%3A1553",
+            "name": "Travel gear",
+            "product_count": 232
+        }, {
+            "id": "category%3A1552",
+            "name": "Run and fitness",
+            "product_count": 161
+        }, {
+            "id": "category%3A1326",
+            "name": "Packs and bags",
+            "product_count": 69
+        }, {
+            "id": "category%3A1554",
+            "name": "Snowsports",
+            "product_count": 66
+        }, {
+            "id": "category%3A981",
+            "name": "Clothing",
+            "product_count": 39
+        }, {
+            "id": "category%3A1550",
+            "name": "Watersports",
+            "product_count": 37
+        }, {
+            "id": "category%3A1700",
+            "name": "Gift guides",
+            "product_count": 12
+        }, {
+            "id": "category%3A1184",
+            "name": "Footwear",
+            "product_count": 11
+        }, {
+            "id": "category%3A301",
+            "name": "Climbing",
+            "product_count": 4
+        }],
+        "name": "Category"
+    }, {
+        "refinements": [{
+            "id": "globaladditionalfeatures%3AReflective+details",
+            "name": "Reflective details",
+            "product_count": 123,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AWaterproof",
+            "name": "Waterproof",
+            "product_count": 61,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ACompression+straps",
+            "name": "Compression straps",
+            "product_count": 48,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ACarry-on+Sized",
+            "name": "Carry-on Sized",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ABluetooth",
+            "name": "Bluetooth",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHydration+compatible",
+            "name": "Hydration compatible",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ARed+light+mode",
+            "name": "Red light mode",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AVentilated+back+panel",
+            "name": "Ventilated back panel",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AAnkle+zips",
+            "name": "Ankle zips",
+            "product_count": 19,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHipbelt+pocket%28s%29",
+            "name": "Hipbelt pocket(s)",
+            "product_count": 16,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHelmet+attachment",
+            "name": "Helmet attachment",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ARain+cover+included",
+            "name": "Rain cover included",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AInterval+training",
+            "name": "Interval training",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AAntimicrobial+treatment",
+            "name": "Antimicrobial treatment",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ADurable+Water+Repellency",
+            "name": "Durable Water Repellency",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AGusseted+crotch",
+            "name": "Gusseted crotch",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ANose+wipe",
+            "name": "Nose wipe",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AInterchangeable+lenses",
+            "name": "Interchangeable lenses",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHeart+rate+monitor",
+            "name": "Heart rate monitor",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AWindproof",
+            "name": "Windproof",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHood",
+            "name": "Hood",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ATouch+screen",
+            "name": "Touch screen",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ALaptop+sleeve",
+            "name": "Laptop sleeve",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ATouchscreen+compatible",
+            "name": "Touchscreen compatible",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AStuffs+in+own+pocket",
+            "name": "Stuffs in own pocket",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ASuitable+for+infants+%28with+kit%29",
+            "name": "Suitable for infants (with kit)",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AActive+compression",
+            "name": "Active compression",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AParking+brake",
+            "name": "Parking brake",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3APit+%2F+leg+zips",
+            "name": "Pit / leg zips",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AGusseted+cuffs",
+            "name": "Gusseted cuffs",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3APolarized+Lens",
+            "name": "Polarized Lens",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AGoggle+wipe",
+            "name": "Goggle wipe",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AHas+storage+compartment",
+            "name": "Has storage compartment",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3ALocking+blade",
+            "name": "Locking blade",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3APocket+Clip",
+            "name": "Pocket Clip",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AThumb+loops",
+            "name": "Thumb loops",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "globaladditionalfeatures%3AWind+flap+behind+zipper",
+            "name": "Wind flap behind zipper",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Features"
+    }, {
+        "refinements": [{
+            "id": "gendermulti%3AWomen%27s",
+            "name": "Women's",
+            "product_count": 416,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "gendermulti%3AMen%27s",
+            "name": "Men's",
+            "product_count": 404,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "gendermulti%3ABoys%27",
+            "name": "Boys'",
+            "product_count": 53,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "gendermulti%3AGirls%27",
+            "name": "Girls'",
+            "product_count": 53,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Gender"
+    }, {
+        "refinements": [{
+            "id": "cfidealforguidednav%3ACycling",
+            "name": "Cycling",
+            "product_count": 2381,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AMountain+biking",
+            "name": "Mountain biking",
+            "product_count": 904,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACycle+commuting",
+            "name": "Cycle commuting",
+            "product_count": 515,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ARoad+cycling",
+            "name": "Road cycling",
+            "product_count": 500,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ABike+maintenance",
+            "name": "Bike maintenance",
+            "product_count": 407,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACycle+touring+and+bikepacking",
+            "name": "Cycle touring and bikepacking",
+            "product_count": 352,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AUrban+cycling",
+            "name": "Urban cycling",
+            "product_count": 311,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ATrail+riding",
+            "name": "Trail riding",
+            "product_count": 250,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACross-country+riding",
+            "name": "Cross-country riding",
+            "product_count": 204,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AEnduro",
+            "name": "Enduro",
+            "product_count": 171,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACycle+training",
+            "name": "Cycle training",
+            "product_count": 118,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ARunning%2C+fitness+and+training",
+            "name": "Running, fitness and training",
+            "product_count": 99,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ARunning",
+            "name": "Running",
+            "product_count": 98,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACyclocross",
+            "name": "Cyclocross",
+            "product_count": 71,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACamping+and+hiking",
+            "name": "Camping and hiking",
+            "product_count": 67,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ADay+hiking",
+            "name": "Day hiking",
+            "product_count": 50,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AFreeride+and+downhill+riding",
+            "name": "Freeride and downhill riding",
+            "product_count": 50,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ABackpacking",
+            "name": "Backpacking",
+            "product_count": 47,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ATravel",
+            "name": "Travel",
+            "product_count": 36,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AYoga+and+fitness",
+            "name": "Yoga and fitness",
+            "product_count": 36,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AWatersports",
+            "name": "Watersports",
+            "product_count": 33,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACasual+wear",
+            "name": "Casual wear",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASnowsports",
+            "name": "Snowsports",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AClimbing",
+            "name": "Climbing",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASnow+and+ice+climbing",
+            "name": "Snow and ice climbing",
+            "product_count": 17,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACanoeing",
+            "name": "Canoeing",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AKayaking",
+            "name": "Kayaking",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AEveryday+use",
+            "name": "Everyday use",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AKayak+touring",
+            "name": "Kayak touring",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ADownhill+skiing",
+            "name": "Downhill skiing",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASnowboarding",
+            "name": "Snowboarding",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ATriathlon",
+            "name": "Triathlon",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ATrail+running",
+            "name": "Trail running",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ABackcountry+skiing",
+            "name": "Backcountry skiing",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACross-country+skiing",
+            "name": "Cross-country skiing",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASnowshoeing",
+            "name": "Snowshoeing",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AEmergency+preparedness",
+            "name": "Emergency preparedness",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AOffice",
+            "name": "Office",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AOffice+and+school",
+            "name": "Office and school",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ACar+camping",
+            "name": "Car camping",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3AFun+and+games",
+            "name": "Fun and games",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3APaddleboarding",
+            "name": "Paddleboarding",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ARock+climbing",
+            "name": "Rock climbing",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASchool",
+            "name": "School",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASurfing",
+            "name": "Surfing",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfidealforguidednav%3ASwim+training",
+            "name": "Swim training",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Ideal for"
+    }, {
+        "refinements": [{
+            "id": "mecgenders%3AChildren%27s+%283-6+yrs%29",
+            "name": "Children's (3-6 yrs)",
+            "product_count": 37,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "mecgenders%3AYouths%27+%287-plus+yrs%29",
+            "name": "Youths' (7-plus yrs)",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "mecgenders%3AInfants%27+%286-24+mths%29",
+            "name": "Infants' (6-24 mths)",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Kids age"
+    }, {
+        "refinements": [{
+            "id": "manufacturername%3AMEC",
+            "name": "MEC",
+            "product_count": 223,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APark+Tool",
+            "name": "Park Tool",
+            "product_count": 199,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AShimano",
+            "name": "Shimano",
+            "product_count": 103,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARace+Face",
+            "name": "Race Face",
+            "product_count": 84,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGhost",
+            "name": "Ghost",
+            "product_count": 82,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFilzer",
+            "name": "Filzer",
+            "product_count": 72,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASRAM",
+            "name": "SRAM",
+            "product_count": 59,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APlanet+Bike",
+            "name": "Planet Bike",
+            "product_count": 55,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMavic",
+            "name": "Mavic",
+            "product_count": 53,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACrankbrothers",
+            "name": "Crankbrothers",
+            "product_count": 44,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGarmin",
+            "name": "Garmin",
+            "product_count": 43,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASwagman",
+            "name": "Swagman",
+            "product_count": 43,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARidley",
+            "name": "Ridley",
+            "product_count": 37,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AThule",
+            "name": "Thule",
+            "product_count": 36,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFeedback",
+            "name": "Feedback",
+            "product_count": 35,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASombrio",
+            "name": "Sombrio",
+            "product_count": 33,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATacx",
+            "name": "Tacx",
+            "product_count": 33,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AContinental",
+            "name": "Continental",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ALight%26+Motion",
+            "name": "Light& Motion",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMaxxis",
+            "name": "Maxxis",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAlex",
+            "name": "Alex",
+            "product_count": 28,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASchwalbe",
+            "name": "Schwalbe",
+            "product_count": 28,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVDO",
+            "name": "VDO",
+            "product_count": 26,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABurley",
+            "name": "Burley",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AEVOC",
+            "name": "EVOC",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AElite",
+            "name": "Elite",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AIntense",
+            "name": "Intense",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABrake+Authority",
+            "name": "Brake Authority",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADelta",
+            "name": "Delta",
+            "product_count": 20,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKnog",
+            "name": "Knog",
+            "product_count": 19,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APearl+Izumi",
+            "name": "Pearl Izumi",
+            "product_count": 19,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APortland+Design+Works",
+            "name": "Portland Design Works",
+            "product_count": 19,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACygo-Lite",
+            "name": "Cygo-Lite",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGoPro",
+            "name": "GoPro",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AWahoo+Fitness",
+            "name": "Wahoo Fitness",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACastelli",
+            "name": "Castelli",
+            "product_count": 17,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMET",
+            "name": "MET",
+            "product_count": 16,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFabric",
+            "name": "Fabric",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFizik",
+            "name": "Fizik",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AK-Edge",
+            "name": "K-Edge",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APlatypus",
+            "name": "Platypus",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABasil",
+            "name": "Basil",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATimbuk2",
+            "name": "Timbuk2",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVittoria",
+            "name": "Vittoria",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABOB",
+            "name": "BOB",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABrooks+England",
+            "name": "Brooks England",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFSA",
+            "name": "FSA",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARockymounts",
+            "name": "Rockymounts",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAbus",
+            "name": "Abus",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFive+Ten",
+            "name": "Five Ten",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASKS",
+            "name": "SKS",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASource",
+            "name": "Source",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ANuun",
+            "name": "Nuun",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARyders+Eyewear",
+            "name": "Ryders Eyewear",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFalcon",
+            "name": "Falcon",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKenda",
+            "name": "Kenda",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKool-Stop",
+            "name": "Kool-Stop",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMagnum",
+            "name": "Magnum",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOsprey",
+            "name": "Osprey",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APorcelain+Rocket",
+            "name": "Porcelain Rocket",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASmith",
+            "name": "Smith",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3A4ZA",
+            "name": "4ZA",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAvid",
+            "name": "Avid",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGU",
+            "name": "GU",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGregory",
+            "name": "Gregory",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASoftride",
+            "name": "Softride",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AUlysses",
+            "name": "Ulysses",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGreen+Guru",
+            "name": "Green Guru",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AHydrapak",
+            "name": "Hydrapak",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARefresh",
+            "name": "Refresh",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARock+Shox",
+            "name": "Rock Shox",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARubbers",
+            "name": "Rubbers",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AZefal",
+            "name": "Zefal",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADU%2FER",
+            "name": "DU/ER",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADetours",
+            "name": "Detours",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADeuter",
+            "name": "Deuter",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADonnelly",
+            "name": "Donnelly",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGem+Trek+Publishing",
+            "name": "Gem Trek Publishing",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGore+Bike+Wear",
+            "name": "Gore Bike Wear",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKali",
+            "name": "Kali",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKodiak",
+            "name": "Kodiak",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ANite+Ize",
+            "name": "Nite Ize",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ANutcase",
+            "name": "Nutcase",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AODI",
+            "name": "ODI",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APolar",
+            "name": "Polar",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASDG",
+            "name": "SDG",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASherpani",
+            "name": "Sherpani",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AStages",
+            "name": "Stages",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATwo+Wheel+Gear",
+            "name": "Two Wheel Gear",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AUrge",
+            "name": "Urge",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AWD-40",
+            "name": "WD-40",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAlligator",
+            "name": "Alligator",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACinelli",
+            "name": "Cinelli",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AClement",
+            "name": "Clement",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADissent+Labs",
+            "name": "Dissent Labs",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AEaston",
+            "name": "Easton",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKMC",
+            "name": "KMC",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOrange+Seal",
+            "name": "Orange Seal",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASci%27con",
+            "name": "Sci'con",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASelle+Italia",
+            "name": "Selle Italia",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASkratch+Labs",
+            "name": "Skratch Labs",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASportful",
+            "name": "Sportful",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AStromer",
+            "name": "Stromer",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATerry",
+            "name": "Terry",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVega",
+            "name": "Vega",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AWPL",
+            "name": "WPL",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AX-Fusion",
+            "name": "X-Fusion",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAss+Savers",
+            "name": "Ass Savers",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABiKASE",
+            "name": "BiKASE",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACycloc",
+            "name": "Cycloc",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADARN+TOUGH",
+            "name": "DARN TOUGH",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AEnd+Zone",
+            "name": "End Zone",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFenix",
+            "name": "Fenix",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFrontiersman",
+            "name": "Frontiersman",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMSR",
+            "name": "MSR",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMorsa+Design",
+            "name": "Morsa Design",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMr.+Tuffy",
+            "name": "Mr. Tuffy",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMucky+Nutz",
+            "name": "Mucky Nutz",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APirelli",
+            "name": "Pirelli",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARema",
+            "name": "Rema",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARunners",
+            "name": "Runners",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASeattle+Sports",
+            "name": "Seattle Sports",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASteadyrack",
+            "name": "Steadyrack",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATru+Flare",
+            "name": "Tru Flare",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AUltima",
+            "name": "Ultima",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AWellgo",
+            "name": "Wellgo",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AABR",
+            "name": "ABR",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAction",
+            "name": "Action",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAirace",
+            "name": "Airace",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAquapac",
+            "name": "Aquapac",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABackroad+Mapbooks",
+            "name": "Backroad Mapbooks",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABeto",
+            "name": "Beto",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABridgedale",
+            "name": "Bridgedale",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACalifornia+Springs",
+            "name": "California Springs",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACycliq",
+            "name": "Cycliq",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADeFeet",
+            "name": "DeFeet",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AEvo",
+            "name": "Evo",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGem+Trek",
+            "name": "Gem Trek",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGreenfield",
+            "name": "Greenfield",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AKask",
+            "name": "Kask",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ALouis+Garneau",
+            "name": "Louis Garneau",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMirrycle",
+            "name": "Mirrycle",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMountain+Cycling+Accessories",
+            "name": "Mountain Cycling Accessories",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APetzl",
+            "name": "Petzl",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APro+Gold",
+            "name": "Pro Gold",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AQuarq",
+            "name": "Quarq",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARSD+Bikes",
+            "name": "RSD Bikes",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASaris",
+            "name": "Saris",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASportRack",
+            "name": "SportRack",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASpy%2B",
+            "name": "Spy+",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASun-Ringle",
+            "name": "Sun-Ringle",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASuncloud",
+            "name": "Suncloud",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASuunto",
+            "name": "Suunto",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AThe+Mountaineers+Books",
+            "name": "The Mountaineers Books",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AThird+Eye",
+            "name": "Third Eye",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATiGr+Lock",
+            "name": "TiGr Lock",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATri-Flow",
+            "name": "Tri-Flow",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVee+Tire+Co",
+            "name": "Vee Tire Co",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVelo",
+            "name": "Velo",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3Abiknd",
+            "name": "biknd",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3Adish",
+            "name": "dish",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAClass",
+            "name": "AClass",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAnon",
+            "name": "Anon",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AAxle+Release",
+            "name": "Axle Release",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABearCozy",
+            "name": "BearCozy",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABike+Peddler+Bike+Products",
+            "name": "Bike Peddler Bike Products",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABiknd",
+            "name": "Biknd",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABluegrass",
+            "name": "Bluegrass",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABoreas",
+            "name": "Boreas",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ABottle+Bright",
+            "name": "Bottle Bright",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACDI",
+            "name": "CDI",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACasio",
+            "name": "Casio",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACoghlan%27s",
+            "name": "Coghlan's",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ACycleAware",
+            "name": "CycleAware",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADeejo",
+            "name": "Deejo",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADuraFlex",
+            "name": "DuraFlex",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADuracell",
+            "name": "Duracell",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ADuro",
+            "name": "Duro",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AEffetto+Mariposa",
+            "name": "Effetto Mariposa",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFCS",
+            "name": "FCS",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFugoo",
+            "name": "Fugoo",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AFull+Windsor",
+            "name": "Full Windsor",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AGrip+Studs",
+            "name": "Grip Studs",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AHornit",
+            "name": "Hornit",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ALevis",
+            "name": "Levis",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ALifu",
+            "name": "Lifu",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AMountainwasher",
+            "name": "Mountainwasher",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOakley",
+            "name": "Oakley",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOmniergy",
+            "name": "Omniergy",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOrp",
+            "name": "Orp",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AOttolock",
+            "name": "Ottolock",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3APhil+Wood",
+            "name": "Phil Wood",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARainy+Day+Biking",
+            "name": "Rainy Day Biking",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ARixen%26+Kaul",
+            "name": "Rixen& Kaul",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASUNLITE",
+            "name": "SUNLITE",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASamui",
+            "name": "Samui",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASherpak",
+            "name": "Sherpak",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASiva+Cycle",
+            "name": "Siva Cycle",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASlickoleum",
+            "name": "Slickoleum",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASmartHalo",
+            "name": "SmartHalo",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASoma",
+            "name": "Soma",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASpecialized",
+            "name": "Specialized",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASprintech",
+            "name": "Sprintech",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASquirt",
+            "name": "Squirt",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ASunRace",
+            "name": "SunRace",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATRP",
+            "name": "TRP",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATate+Labs",
+            "name": "Tate Labs",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATigra+Sport",
+            "name": "Tigra Sport",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATire+Sparx",
+            "name": "Tire Sparx",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATokyo",
+            "name": "Tokyo",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3ATrix",
+            "name": "Trix",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AUnited+By+Blue",
+            "name": "United By Blue",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AVictor",
+            "name": "Victor",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AWorx",
+            "name": "Worx",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "manufacturername%3AN%2FA",
+            "name": "N/A",
+            "product_count": 62,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Brand"
+    }, {
+        "refinements": [{
+            "id": "cfresistancetype%3AElectric+motor",
+            "name": "Electric motor",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfresistancetype%3AElectromagnetic",
+            "name": "Electromagnetic",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfresistancetype%3AFluid",
+            "name": "Fluid",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfresistancetype%3AMagnetic",
+            "name": "Magnetic",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfresistancetype%3ARollers",
+            "name": "Rollers",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Resistance type"
+    }, {
+        "refinements": [{
+            "id": "cffooddietaryrestrictions%3ADairy+free",
+            "name": "Dairy free",
+            "product_count": 31,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffooddietaryrestrictions%3AGluten+free",
+            "name": "Gluten free",
+            "product_count": 30,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffooddietaryrestrictions%3AVegetarian",
+            "name": "Vegetarian",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffooddietaryrestrictions%3AVegan",
+            "name": "Vegan",
+            "product_count": 28,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffooddietaryrestrictions%3ANut+free",
+            "name": "Nut free",
+            "product_count": 27,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffooddietaryrestrictions%3ASoy+free",
+            "name": "Soy free",
+            "product_count": 27,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Food preferences"
+    }, {
+        "refinements": [{
+            "id": "cflanternpowersupply%3AUSB+charger",
+            "name": "USB charger",
+            "product_count": 43,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflanternpowersupply%3AReplaceable+batteries",
+            "name": "Replaceable batteries",
+            "product_count": 17,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflanternpowersupply%3AAC+charger",
+            "name": "AC charger",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflanternpowersupply%3AE-bike+battery",
+            "name": "E-bike battery",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Power Supply"
+    }, {
+        "refinements": [{
+            "id": "cfknifeedgetype%3AStraight",
+            "name": "Straight",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Blade Edge Type"
+    }, {
+        "refinements": [{
+            "id": "cfsockthickness%3AMedium",
+            "name": "Medium",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfsockthickness%3AThin",
+            "name": "Thin",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Thickness"
+    }, {
+        "refinements": [{
+            "id": "cffabriccontent%3ASynthetic",
+            "name": "Synthetic",
+            "product_count": 100,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffabriccontent%3ACotton",
+            "name": "Cotton",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffabriccontent%3AMerino+wool",
+            "name": "Merino wool",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Fabric"
+    }, {
+        "refinements": [{
+            "id": "cfhandwearinsulationweb%3ALight",
+            "name": "Light",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandwearinsulationweb%3AMedium",
+            "name": "Medium",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Insulation"
+    }, {
+        "refinements": [{
+            "id": "price%3A%24100-%24200",
+            "name": "$100-$200",
+            "product_count": 310,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%241000-%241500",
+            "name": "$1000-$1500",
+            "product_count": 26,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%241500-%242000",
+            "name": "$1500-$2000",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%24200-%24500",
+            "name": "$200-$500",
+            "product_count": 193,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%242000-%243000",
+            "name": "$2000-$3000",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%2425-%2450",
+            "name": "$25-$50",
+            "product_count": 534,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%243000-%244000",
+            "name": "$3000-$4000",
+            "product_count": 16,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%244000-%245000",
+            "name": "$4000-$5000",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%2450-%24100",
+            "name": "$50-$100",
+            "product_count": 456,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%24500-%24750",
+            "name": "$500-$750",
+            "product_count": 58,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%245000+and+up",
+            "name": "$5000 and up",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3A%24750-1000",
+            "name": "$750-1000",
+            "product_count": 25,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "price%3AUnder+%2425",
+            "name": "Under $25",
+            "product_count": 744,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Price"
+    }, {
+        "refinements": [{
+            "id": "reviewavgratingrange%3A1",
+            "name": "1",
+            "product_count": 591,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "reviewavgratingrange%3A2",
+            "name": "2",
+            "product_count": 537,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "reviewavgratingrange%3A3",
+            "name": "3",
+            "product_count": 450,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "reviewavgratingrange%3A4",
+            "name": "4",
+            "product_count": 140,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Average Rating"
+    }, {
+        "refinements": [{
+            "id": "cfreferenceregionality%3ABritish+Columbia",
+            "name": "British Columbia",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AQuebec",
+            "name": "Quebec",
+            "product_count": 17,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3ARockies",
+            "name": "Rockies",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AOntario",
+            "name": "Ontario",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AUSA",
+            "name": "USA",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3APrairies",
+            "name": "Prairies",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AAtlantic+Provinces",
+            "name": "Atlantic Provinces",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AEurope",
+            "name": "Europe",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreferenceregionality%3AMexico",
+            "name": "Mexico",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Regionality"
+    }, {
+        "refinements": [{
+            "id": "colour%3Ablack",
+            "name": "black",
+            "product_count": 1306,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Amulticolour",
+            "name": "multicolour",
+            "product_count": 709,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Asilver",
+            "name": "silver",
+            "product_count": 196,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Ablue",
+            "name": "blue",
+            "product_count": 172,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Ared",
+            "name": "red",
+            "product_count": 161,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Agrey",
+            "name": "grey",
+            "product_count": 143,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Agreen",
+            "name": "green",
+            "product_count": 86,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Awhite",
+            "name": "white",
+            "product_count": 84,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Ayellow",
+            "name": "yellow",
+            "product_count": 57,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Apink",
+            "name": "pink",
+            "product_count": 45,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Aorange",
+            "name": "orange",
+            "product_count": 43,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Ateal",
+            "name": "teal",
+            "product_count": 42,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Apurple",
+            "name": "purple",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Abrown",
+            "name": "brown",
+            "product_count": 24,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Aclear",
+            "name": "clear",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Agold",
+            "name": "gold",
+            "product_count": 17,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Aburgundy",
+            "name": "burgundy",
+            "product_count": 14,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "colour%3Abeige",
+            "name": "beige",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Colour"
+    }, {
+        "refinements": [{
+            "id": "sustainabilitygn%3ABluesign%C2%AE+approved+fabric",
+            "name": "Bluesign® approved fabric",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "sustainabilitygn%3AOrganically+grown+content",
+            "name": "Organically grown content",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "sustainabilitygn%3ARecycled+content",
+            "name": "Recycled content",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Product sustainability"
+    }, {
+        "refinements": [{
+            "id": "cfknifehandlematerial%3AWood",
+            "name": "Wood",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Handle Material"
+    }, {
+        "refinements": [{
+            "id": "cfhandwearpalmmaterial%3ASynthetic+leather",
+            "name": "Synthetic leather",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandwearpalmmaterial%3ASynthetic+suede",
+            "name": "Synthetic suede",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandwearpalmmaterial%3ASynthetic",
+            "name": "Synthetic",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Palm Material"
+    }, {
+        "refinements": [{
+            "id": "featurecollection%3Aonclearance",
+            "name": "onclearance",
+            "product_count": 171,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "featurecollection%3Anew",
+            "name": "new",
+            "product_count": 76,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "New and clearance"
+    }, {
+        "refinements": [{
+            "id": "cffoodconsumed%3ADuring+exercise",
+            "name": "During exercise",
+            "product_count": 32,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffoodconsumed%3ARecovery",
+            "name": "Recovery",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffoodconsumed%3ABefore+exercise",
+            "name": "Before exercise",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Best consumed"
+    }, {
+        "refinements": [{
+            "id": "cfapparelupfrating%3A40-50%2B+%28Blocks+%7E97.5%25+of+UVA%2FUVB%29",
+            "name": "40-50+ (Blocks ~97.5% of UVA/UVB)",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "UPF Rating"
+    }, {
+        "refinements": [{
+            "id": "cfhandweartype%3AGloves",
+            "name": "Gloves",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandweartype%3AFingerless+gloves",
+            "name": "Fingerless gloves",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Handwear type"
+    }, {
+        "refinements": [{
+            "id": "cfbottlematerial%3ALDPE+%28low-density+polyethylene%29",
+            "name": "LDPE (low-density polyethylene)",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbottlematerial%3APolyethylene",
+            "name": "Polyethylene",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbottlematerial%3APolyurethane",
+            "name": "Polyurethane",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbottlematerial%3APolyurethane+%2B+polyethelyne",
+            "name": "Polyurethane + polyethelyne",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Material"
+    }, {
+        "refinements": [{
+            "id": "csrefauthor%3ALennard+Zinn",
+            "name": "Lennard Zinn",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AAndre+Poirier%2C+Patrice+Marcotte",
+            "name": "Andre Poirier, Patrice Marcotte",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AChris+Carmichael%2C+Jim+Rutberg",
+            "name": "Chris Carmichael, Jim Rutberg",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AClive+Forth",
+            "name": "Clive Forth",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ADenise+Belzil",
+            "name": "Denise Belzil",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AJoe+Friel",
+            "name": "Joe Friel",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AJohn+Crouch",
+            "name": "John Crouch",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3APeter+Oprsal%2C+Ryan+Robertson",
+            "name": "Peter Oprsal, Ryan Robertson",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AWade+Simmons%2C+Sharon+Bader",
+            "name": "Wade Simmons, Sharon Bader",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3A+Guy+Andrews",
+            "name": " Guy Andrews",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AAaron+Kristianson%2C+Vince+Hempsall",
+            "name": "Aaron Kristianson, Vince Hempsall",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ABrendan+Leonard",
+            "name": "Brendan Leonard",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ABruce+Obee",
+            "name": "Bruce Obee",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ACalvin+Jones",
+            "name": "Calvin Jones",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ACarole+Saint-Laurent",
+            "name": "Carole Saint-Laurent",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AChristian+Vaast",
+            "name": "Christian Vaast",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AChristine+Butt%2C+Jason+Marleau",
+            "name": "Christine Butt, Jason Marleau",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AChristine+Hurst%2C+Robert+Hurst",
+            "name": "Christine Hurst, Robert Hurst",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ACollectiv",
+            "name": "Collectiv",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ACraig+Forcese%2C+Nicole+LaViolette",
+            "name": "Craig Forcese, Nicole LaViolette",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ADavid+Crowell",
+            "name": "David Crowell",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AFrancine+Saint-Laurent",
+            "name": "Francine Saint-Laurent",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AGabri%C3%A9l+Beland",
+            "name": "Gabriél Beland",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AGale+Bernhardt",
+            "name": "Gale Bernhardt",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AGuy+Andrews",
+            "name": "Guy Andrews",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AHoward+Pulver",
+            "name": "Howard Pulver",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AHunter+Allen%2C+Andrew+Coggan",
+            "name": "Hunter Allen, Andrew Coggan",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AJack+Christie",
+            "name": "Jack Christie",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AJamie+Smith%2C+Chris+Horner",
+            "name": "Jamie Smith, Chris Horner",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AJustin+Lichter%2C+Justin+Kline",
+            "name": "Justin Lichter, Justin Kline",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AKristi+Anderson",
+            "name": "Kristi Anderson",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ALori+Beattie",
+            "name": "Lori Beattie",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ALouise+B%C3%A9dard",
+            "name": "Louise Bédard",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ALuke+Edwardes-Evans",
+            "name": "Luke Edwardes-Evans",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AMadi+Carlson",
+            "name": "Madi Carlson",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AMatthew+Kadey",
+            "name": "Matthew Kadey",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AMichael+Haynes",
+            "name": "Michael Haynes",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ANeil+Pike%2C+Harriet+Pike",
+            "name": "Neil Pike, Harriet Pike",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3APeter+Oprsal",
+            "name": "Peter Oprsal",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ARaymond+Bridge",
+            "name": "Raymond Bridge",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ARobert+Hurst",
+            "name": "Robert Hurst",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ARobin+Barton",
+            "name": "Robin Barton",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ASteve+Langston",
+            "name": "Steve Langston",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ATim+O%27Hearn%2C+Claudia+O%27Hearn",
+            "name": "Tim O'Hearn, Claudia O'Hearn",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3ATracey+Ariel%2C+John+Lynes",
+            "name": "Tracey Ariel, John Lynes",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "csrefauthor%3AVicky+Spring%2C+Tom+Kirkendall",
+            "name": "Vicky Spring, Tom Kirkendall",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Author"
+    }, {
+        "refinements": [{
+            "id": "cftirebead%3AFolding",
+            "name": "Folding",
+            "product_count": 59,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cftirebead%3AWire",
+            "name": "Wire",
+            "product_count": 38,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Bead"
+    }, {
+        "refinements": [{
+            "id": "cflightbeampattern%3AWide",
+            "name": "Wide",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflightbeampattern%3ASpot",
+            "name": "Spot",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Beam Pattern"
+    }, {
+        "refinements": [{
+            "id": "cflightbodymaterial%3APlastic",
+            "name": "Plastic",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Body Material"
+    }, {
+        "refinements": [{
+            "id": "cfpedaltype%3A2-hole+clipless",
+            "name": "2-hole clipless",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfpedaltype%3AFlat",
+            "name": "Flat",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Pedal type"
+    }, {
+        "refinements": [{
+            "id": "cfshiftertype%3ATrigger",
+            "name": "Trigger",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfshiftertype%3ACombination+brake%2Fshifter",
+            "name": "Combination brake/shifter",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfshiftertype%3ALever",
+            "name": "Lever",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Shifter type"
+    }, {
+        "refinements": [{
+            "id": "cfbikecasettestype%3ACassette",
+            "name": "Cassette",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Sprocket type"
+    }, {
+        "refinements": [{
+            "id": "cfbikefronttravel%3A100mm",
+            "name": "100mm",
+            "product_count": 15,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbikefronttravel%3A140mm",
+            "name": "140mm",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbikefronttravel%3A150mm",
+            "name": "150mm",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbikefronttravel%3A160mm",
+            "name": "160mm",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbikefronttravel%3A130mm",
+            "name": "130mm",
+            "product_count": 6,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbikefronttravel%3A200mm",
+            "name": "200mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Front travel"
+    }, {
+        "refinements": [{
+            "id": "cfreartravel%3A130mm",
+            "name": "130mm",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A115mm",
+            "name": "115mm",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A140mm",
+            "name": "140mm",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A165mm",
+            "name": "165mm",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A155mm",
+            "name": "155mm",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A120mm",
+            "name": "120mm",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A145mm",
+            "name": "145mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A215mm",
+            "name": "215mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfreartravel%3A241mm",
+            "name": "241mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Rear travel"
+    }, {
+        "refinements": [{
+            "id": "cffootwearwaterproof%3ANo",
+            "name": "No",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cffootwearwaterproof%3AYes",
+            "name": "Yes",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Waterproof"
+    }, {
+        "refinements": [{
+            "id": "cflumenlightbuckets%3A0-99+lumens",
+            "name": "0-99 lumens",
+            "product_count": 22,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflumenlightbuckets%3A500+lumens+and+up",
+            "name": "500 lumens and up",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflumenlightbuckets%3A100-299+lumens",
+            "name": "100-299 lumens",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cflumenlightbuckets%3A300-499+lumens",
+            "name": "300-499 lumens",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Brightness"
+    }, {
+        "refinements": [{
+            "id": "cfbikebbthreadstyle%3ABritish",
+            "name": "British",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Thread Style"
+    }, {
+        "refinements": [{
+            "id": "cftirewheelposition%3ARear",
+            "name": "Rear",
+            "product_count": 94,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cftirewheelposition%3AFront",
+            "name": "Front",
+            "product_count": 90,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Wheel Position"
+    }, {
+        "refinements": [{
+            "id": "cfgntirewheelsize%3A700C",
+            "name": "700C",
+            "product_count": 137,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A27.5in.",
+            "name": "27.5in.",
+            "product_count": 64,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A26in.",
+            "name": "26in.",
+            "product_count": 62,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A29in.",
+            "name": "29in.",
+            "product_count": 49,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A24in.",
+            "name": "24in.",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A20in.",
+            "name": "20in.",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A27in.",
+            "name": "27in.",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A16in.",
+            "name": "16in.",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A650C",
+            "name": "650C",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgntirewheelsize%3A12.5in.",
+            "name": "12.5in.",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Wheel Size"
+    }, {
+        "refinements": [{
+            "id": "cfclosurelacing%3ALace-up",
+            "name": "Lace-up",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3ALace-up+%2B+hook-and-loop",
+            "name": "Lace-up + hook-and-loop",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3AHook-and-loop",
+            "name": "Hook-and-loop",
+            "product_count": 5,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3ARatchet+cable",
+            "name": "Ratchet cable",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3AHook-and-loop+%2B+ratcheting+cable",
+            "name": "Hook-and-loop + ratcheting cable",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3AQuick+pull+%2B+hook-and-loop",
+            "name": "Quick pull + hook-and-loop",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3AZipper",
+            "name": "Zipper",
+            "product_count": 2,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfclosurelacing%3AQuick+pull",
+            "name": "Quick pull",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Closure"
+    }, {
+        "refinements": [{
+            "id": "cfknifebladematerial%3A420+stainless+steel",
+            "name": "420 stainless steel",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Blade Material"
+    }, {
+        "refinements": [{
+            "id": "cfbraketype%3ADisc",
+            "name": "Disc",
+            "product_count": 44,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbraketype%3ACaliper",
+            "name": "Caliper",
+            "product_count": 13,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbraketype%3ACantilever",
+            "name": "Cantilever",
+            "product_count": 12,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbraketype%3AV-brake",
+            "name": "V-brake",
+            "product_count": 11,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Brake type"
+    }, {
+        "refinements": [{
+            "id": "cfcarracktype%3AHitch+mount+bike",
+            "name": "Hitch mount bike",
+            "product_count": 21,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfcarracktype%3ARooftop+bike",
+            "name": "Rooftop bike",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfcarracktype%3ABolt-on+fork+mount+bike",
+            "name": "Bolt-on fork mount bike",
+            "product_count": 9,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfcarracktype%3ATrunk+mount+bike",
+            "name": "Trunk mount bike",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfcarracktype%3ATailgate+pad",
+            "name": "Tailgate pad",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfcarracktype%3ABumper+mount+bike",
+            "name": "Bumper mount bike",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Car rack type"
+    }, {
+        "refinements": [{
+            "id": "cfchainringdrivetrain%3A11-speed",
+            "name": "11-speed",
+            "product_count": 35,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A10-speed",
+            "name": "10-speed",
+            "product_count": 32,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A9-speed",
+            "name": "9-speed",
+            "product_count": 29,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A12-speed",
+            "name": "12-speed",
+            "product_count": 16,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A8-speed",
+            "name": "8-speed",
+            "product_count": 10,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A7-speed",
+            "name": "7-speed",
+            "product_count": 7,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A6-speed",
+            "name": "6-speed",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3A3-speed",
+            "name": "3-speed",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfchainringdrivetrain%3ASingle+speed",
+            "name": "Single speed",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Compatibility"
+    }, {
+        "refinements": [{
+            "id": "cfgpsipx%3AIP+X7",
+            "name": "IP X7",
+            "product_count": 24,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgpsipx%3AIP+X8",
+            "name": "IP X8",
+            "product_count": 8,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgpsipx%3AIP+X4",
+            "name": "IP X4",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgpsipx%3AIP+X6",
+            "name": "IP X6",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfgpsipx%3AIP+X8+%28with+included+case%29",
+            "name": "IP X8 (with included case)",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "IPX rating (waterproofness)"
+    }, {
+        "refinements": [{
+            "id": "cfbooklanguage%3AEnglish",
+            "name": "English",
+            "product_count": 69,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbooklanguage%3AFrench",
+            "name": "French",
+            "product_count": 18,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfbooklanguage%3AEnglish%2FFrench",
+            "name": "English/French",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Language"
+    }, {
+        "refinements": [{
+            "id": "cfhandlebarrise%3A15mm",
+            "name": "15mm",
+            "product_count": 4,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandlebarrise%3A20mm",
+            "name": "20mm",
+            "product_count": 3,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandlebarrise%3A10%2C+20mm",
+            "name": "10, 20mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }, {
+            "id": "cfhandlebarrise%3A25mm",
+            "name": "25mm",
+            "product_count": 1,
+            "products_search_url": "https://www.mec.ca/api/v1/products/search?keywords=bike"
+        }],
+        "name": "Rise"
+    }],
+    "categories": {
+        "id": "category%3A100",
+        "name": "Products",
+        "product_count": 2418,
+        "sub_categories": [{
+            "id": "category%3A1551",
+            "name": "Cycling",
+            "product_count": 2378
+        }, {
+            "id": "category%3A1549",
+            "name": "Camping and hiking",
+            "product_count": 262
+        }, {
+            "id": "category%3A1553",
+            "name": "Travel gear",
+            "product_count": 232
+        }, {
+            "id": "category%3A1552",
+            "name": "Run and fitness",
+            "product_count": 161
+        }, {
+            "id": "category%3A1326",
+            "name": "Packs and bags",
+            "product_count": 69
+        }, {
+            "id": "category%3A1554",
+            "name": "Snowsports",
+            "product_count": 66
+        }, {
+            "id": "category%3A981",
+            "name": "Clothing",
+            "product_count": 39
+        }, {
+            "id": "category%3A1550",
+            "name": "Watersports",
+            "product_count": 37
+        }, {
+            "id": "category%3A1700",
+            "name": "Gift guides",
+            "product_count": 12
+        }, {
+            "id": "category%3A1184",
+            "name": "Footwear",
+            "product_count": 11
+        }, {
+            "id": "category%3A301",
+            "name": "Climbing",
+            "product_count": 4
+        }]
+    },
+    "total_product_count": 2418,
+    "errors_cnt": 0,
+    "warnings_cnt": 0
+}

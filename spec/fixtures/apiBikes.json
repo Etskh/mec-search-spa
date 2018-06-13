@@ -1,0 +1,24 @@
+{
+    "searchString": "bike",
+    "results": [{
+        "name": "Cote Bicycle",
+        "imageUri": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8968417181726/5059557-GRT01-fallback.jpg",
+        "colours": ["#0b0b0b", "#41413e", "#abacab"]
+    }, {
+        "name": "2018 Primer Foundation Bike",
+        "imageUri": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8891895906334/5054892-BL022-fallback.jpg",
+        "colours": ["#070608", "#53622b", "#40c7c7"]
+    }, {
+        "name": "X-Trail A60",
+        "imageUri": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8928250298398/5056180-GRO00-fallback.jpg",
+        "colours": ["#131418", "#4a4b53", "#b7b7b8"]
+    }, {
+        "name": "Chinook Bicycle",
+        "imageUri": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8956407709726/5057242-BK052-fallback.jpg",
+        "colours": ["#0d0d0c", "#43423e", "#bfc0c0"]
+    }, {
+        "name": "Midtown Bicycle",
+        "imageUri": "https://cdn.mec.ca/medias/sys_master/fallback/fallback/8872387477534/5051244-BK052-fallback.jpg",
+        "colours": ["#100d0c", "#54504a", "#b9b7b6"]
+    }]
+}
