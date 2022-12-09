@@ -24,7 +24,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
     "bunyan": "^1.8.12",
-    "express": "^4.16.2",
+    "express": "^4.17.3",
     "express-hbs": "^1.0.4",
     "gulp": "^3.9.1",
     "gulp-less": "^3.3.2",
